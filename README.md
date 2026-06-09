@@ -56,7 +56,7 @@ This project was intentionally built without any frameworks to:
 
 ## 📸 Preview
 
-*(Add a screenshot or GIF of your project here if you have one)*
+![Certification Generator Preview](assets/Screenshot.png)
 
 ---
 
